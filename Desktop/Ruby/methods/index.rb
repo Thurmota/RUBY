@@ -25,3 +25,4 @@ def area(lenght = 10, width = 20)
     lenght * width
 end
 
+puts "Alteração teste"
